@@ -1,6 +1,12 @@
 # Fine-Tuning Phi-2 for Abstractive Text Summarization
 
-## Group 7 – Deep Learning
+## Group 6 – Deep Learning
+
+| Nama | NIM |
+|---------|------|
+| Rahmanda Afebrio Yuris Soesatyo | 1103223024 |
+| Rafly Fasha Purnomo Putra | 1103223050 |
+
 
 ---
 
