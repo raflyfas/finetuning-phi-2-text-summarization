@@ -64,7 +64,7 @@ To ensure efficiency and reduce overfitting:
 - Only LoRA adapter parameters are trained
 - Gradient accumulation and gradient checkpointing are used
 
-This setup allows stable training on GPUs with limited VRAM.
+This setup allows stable training on GPUs with limited VRAM
 
 ---
 
